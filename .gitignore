@@ -1,0 +1,8 @@
+node_modules/
+yarn1/
+yarn.lock
+streams/big.txt
+web/openssl/
+web/ssl/
+web/openssl-0.9.8k_X64.zip
+.idea/
