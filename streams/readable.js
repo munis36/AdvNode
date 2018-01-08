@@ -10,7 +10,6 @@ inStream.push(null);
 
 inStream.pipe(process.stdout);*/
 
-
 const inStream = new Readable({
     read(size){
         setTimeout(()=>{
